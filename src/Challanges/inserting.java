@@ -3,7 +3,7 @@
 
 package Challanges;
 
-public class C7 {
+public class inserting {
     public static void main(String []args){
         int A[]=new int[10];
         A[0]=1; A[1]=5; A[2]=32;A[3]=8; A[4]=7; int n=5;

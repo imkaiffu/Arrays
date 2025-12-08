@@ -2,7 +2,7 @@
 
 package Challanges;
 
-public class C6 {
+public class leftRotation {
     public static void main(String[] args) {
         int A[] = {4, 5, 6, 3, 6, 7, 36, 75, 35, 75, 3};
         for (int z : A)

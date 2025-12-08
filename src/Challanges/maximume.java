@@ -2,7 +2,7 @@
 
 package Challanges;
 
-public class C3 {
+public class maximume {
     public static void main(String[]args){
         int A[]={3,5,6,3,67,4,8};
         int max=0;

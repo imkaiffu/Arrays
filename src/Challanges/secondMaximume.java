@@ -2,7 +2,7 @@
 
 package Challanges;
 
-public class C4 {
+public class secondMaximume {
     public static void main(String []args){
         int A[]={2,53,6,23,7,9,24};
         int max1,max2;

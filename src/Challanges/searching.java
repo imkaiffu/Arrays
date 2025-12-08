@@ -4,7 +4,7 @@ package Challanges;
 
 import java.util.Scanner;
 
-public class C2 {
+public class searching {
     public static void main(String[]args){
         Scanner sc=new Scanner(System.in);
         int A[]={3,54,6,2,62,2,7,73,8};

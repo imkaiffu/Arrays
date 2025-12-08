@@ -2,7 +2,7 @@
 
 package Challanges;
 
-public class C1 {
+public class sum {
     public static void main(String[]args){
 
         int A[]={2,3,6,4,8,8,21,7};
