@@ -20,5 +20,6 @@ public class sum {
             sum1=sum+x;
         }
         System.out.println("Sum is = "+sum1);
+
     }
 }
